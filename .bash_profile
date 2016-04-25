@@ -50,7 +50,5 @@ export PATH=~/depot_tools:"$PATH"
 
 export PATH=~/Downloads/apktool:"$PATH"
 
-# github api token
-export HOMEBREW_GITHUB_API_TOKEN="e7efa9b1b0e71bd4ccbb20cd7ac91535394f7b7e"
 
 
