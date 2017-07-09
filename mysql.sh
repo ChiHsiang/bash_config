@@ -3,7 +3,7 @@
 sudo apt-update
 sudo apt-upgrade
 
-sudo apt install mysql-server mysql-client
+sudo apt-get install mysql-server mysql-client libmysqlclient-dev
 sudo mysql_secure_installation
 
 # setting mysql root
